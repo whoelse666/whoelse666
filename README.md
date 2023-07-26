@@ -53,14 +53,12 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=whoelse666&show_icons=true&theme=dark&count_private=true)
-![](https://stats.justsong.cn/api/csdn?id=whoelse666&theme=dark)
-![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
-![](https://activity-graph.herokuapp.com/graph?username=whoelse666&theme=github)
 
 
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **whoelse666/whoelse666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
