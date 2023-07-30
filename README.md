@@ -24,7 +24,11 @@ counting of visitors to this page in this section started from June 12, 2022
 </pre> 
 
 <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
 
+![](https://count.getloli.com/get/@BEPb.github.readme)
+</br>
 ### ⭐️ &nbsp;Github Star
 
 
