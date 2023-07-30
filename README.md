@@ -63,8 +63,6 @@ counting of visitors to this page in this section started from June 12, 2022
  
 </p>
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=whoesle666" width="auto"></img>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)
 
