@@ -13,7 +13,7 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am whoelse666!👋 </strong>
+<strong>Hi, I am whoelse666!👋 </strong>  
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
@@ -47,15 +47,15 @@ counting of visitors to this page in this section started from June 12, 2022
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/whoelse666/count.svg" />
 
-
+<img src="[https://profile-counter.glitch.me/whoelse666/count.svg](https://ghchart.rshah.org/whoelse666)" /> 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
-<!--
+
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=whoelse666&count_private=true&show_icons=true"/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=whoelse666&show_icons=true&theme=dark&count_private=true)
 <img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
--->
+
 <p>
  
 <a href="https://juejin.cn/user/2682464105151223"> </a>
