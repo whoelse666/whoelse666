@@ -14,11 +14,6 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
 <strong>Hi, I am whoelse666!👋 </strong>  
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@whoelse666.github.readme)
-</br>
 <strong>A full stack developer from China🇨🇳. </strong>
 
 </pre> 
