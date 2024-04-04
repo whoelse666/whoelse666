@@ -35,7 +35,7 @@
 
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact" alt="whoelse666" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" /> -->
 </p>
 
 ## Contribution
