@@ -16,13 +16,12 @@
 <strong>Hi, I am whoelse666!👋 </strong>  
 <strong>A full stack developer from China🇨🇳. </strong>
 
-</pre> 
+</pre>  
 
 
+
+![ Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)
 ## Most Used Languages
- 
-<img align="left" height="200em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)" />
-
 <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
@@ -36,9 +35,6 @@
 ![NestJs](https://img.shields.io/badge/-NestJs-red?logo=nestjs)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-
-
-
 
 
 ## Contribution
@@ -95,6 +91,8 @@ counting of visitors to this page in this section started from June 12, 2022
 <!-- <a href="https://space.bilibili.com/1513364019"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a> -->
  
 </p>
+
+
 
 
 
