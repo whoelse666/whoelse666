@@ -38,8 +38,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
 </p>
 
-<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
-
 ## Contribution
 
 <p align="left">
