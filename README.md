@@ -19,10 +19,26 @@
 </pre>  
 
 
+## Most Used Languages
 
-![ Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
+![React](https://img.shields.io/badge/-React-282c34?logo=react)
+![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
+![NodeJs](https://img.shields.io/badge/-NodeJs-282c34?logo=node.js)
+![NestJs](https://img.shields.io/badge/-NestJs-red?logo=nestjs)
+![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
 
-![ Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only))
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact" alt="whoelse666" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
+</p>
+
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
 
 ## Contribution
 
@@ -78,25 +94,7 @@ counting of visitors to this page in this section started from June 12, 2022
 <!-- <a href="https://space.bilibili.com/1513364019"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a> -->
  
 </p>
-
-
  
-<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
-
-![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
-![React](https://img.shields.io/badge/-React-282c34?logo=react)
-![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
-![NodeJs](https://img.shields.io/badge/-NodeJs-282c34?logo=node.js)
-![NestJs](https://img.shields.io/badge/-NestJs-red?logo=nestjs)
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-
-
-
 
 
 
