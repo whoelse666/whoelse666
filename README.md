@@ -32,13 +32,6 @@
   <img height="150em" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=whoelse666&show_icons=true&hide_title=true&theme=merko#gh-dark-mode-only" />
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/whoelse666/whoelse666/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/whoelse666/whoelse666/dist/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <!-- ![TOG](https://raw.githubusercontent.com/whoelse666/whoelse666/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
-  <!-- ![TOG](https://raw.githubusercontent.com/whoelse666/whoelse666/dist/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-</p>
-
 
 ![](https://raw.githubusercontent.com/whoelse666/whoelse666/output/github-contribution-grid-snake.svg)
 
