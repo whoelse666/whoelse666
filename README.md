@@ -71,10 +71,6 @@ counting of visitors to this page in this section started from June 12, 2022
 <a href="mailto:347300979@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-347300979@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/whoelse666/count.svg" />
-
-
 
 
 
