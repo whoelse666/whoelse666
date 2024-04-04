@@ -17,9 +17,6 @@
 <strong>A full stack developer from China🇨🇳. </strong>
 
 </pre> 
-<!--
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
--->
 
 
 
@@ -43,7 +40,7 @@
 </p>
 
 
-![](https://raw.githubusercontent.com/whoelse666/whoelse666/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/whoelse666/whoelse666/output/github-contribution-grid-snake.svg)
 
 
 ### Profile Views
