@@ -23,7 +23,7 @@
  
 <img align="left" height="200em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)" />
 
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
