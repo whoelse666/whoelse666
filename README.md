@@ -22,6 +22,8 @@
 
 ![ Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)
 
+![ Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only))
+
 ## Contribution
 
 <p align="left">
@@ -78,8 +80,7 @@ counting of visitors to this page in this section started from June 12, 2022
 </p>
 
 
-
-## Most Used Languages
+ 
 <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&hide_title=true&layout=compact&langs_count=100&hide=HTML,Makefile,CSS,SCSS,LESS&theme=merko#gh-dark-mode-only" />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
