@@ -43,8 +43,7 @@
 </p>
 
 
-![](https://raw.githubusercontent.com/whoelse666/whoelse666/main/assets/github-contribution-grid-snake.svg)
-
+![](https://raw.githubusercontent.com/whoelse666/whoelse666/output/github-contribution-grid-snake-dark.svg)
 
 
 ### Profile Views
