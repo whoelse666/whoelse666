@@ -94,13 +94,7 @@ counting of visitors to this page in this section started from June 12, 2022
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoelse666&theme=dark&layout=compact)
 
-![](https://activity-graph.herokuapp.com/graph?username=whoelse666&theme=github)
-
-
-
-
-
- ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![](https://activity-graph.herokuapp.com/graph?username=whoelse666&theme=github)  ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
@@ -113,3 +107,9 @@ counting of visitors to this page in this section started from June 12, 2022
 
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
+
+
+
+
+
+
