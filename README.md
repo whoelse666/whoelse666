@@ -22,6 +22,12 @@
 </pre>  
 
 
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@whoesle666.github.readme)
+</br>
+<!--  ### ⭐️ &nbsp;Github Star -->
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/whoelse666/count.svg" />
 
@@ -81,12 +87,6 @@
 ![](https://raw.githubusercontent.com/whoelse666/whoelse666/output/github-contribution-grid-snake.svg)
 
 
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@whoesle666.github.readme)
-</br>
-### ⭐️ &nbsp;Github Star
 
 
 
